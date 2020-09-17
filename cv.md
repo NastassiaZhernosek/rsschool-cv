@@ -23,4 +23,17 @@ Software Engineer with experience in Database and Data Warehouse development. Ha
 
 
 ### Experience
+
 **Software Engineer:** 04/2018 to Present in EPAM Systems, Minsk.
+
+
+### Education
+Belarusian State University
+Faculty of Applied Mathematics and Computer Science
+Specialty "Economic Cybernetics'
+
+
+### Languages
+* Russian - Native
+* English - B1+
+* Italian - A1
