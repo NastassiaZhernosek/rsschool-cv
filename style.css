@@ -1,0 +1,130 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+#content {
+  margin: auto;
+  width: 70%;
+}
+
+#personal-info {
+  display: inline-block;
+  width: 35%;
+  margin: 0;
+}
+
+#experience {
+  display: inline-block;
+  height: 100%;
+  width: 57%;
+  vertical-align: top;
+  padding: 3% 3% 5% 4%;
+}
+
+#photo img {
+  display: block;
+  width: 100%;
+  height: 30%;
+}
+
+#contact-information {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(132, 40, 207);
+}
+
+.contact-headline {
+  width: 100%;
+  margin: 0;
+  padding: 10% 0 7% 9%;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fa {
+  display: inline-block;
+  color: white;
+  padding: 0 0 4% 10%;
+  width: 10%;
+  height: 100%;
+}
+
+.contact-text {
+  display: inline-block;
+  color: white;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+  color: white;
+  font-size: 14px;
+  padding: 0 0 4% 10%;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+  padding: 0 0 0 0;
+  margin: 0;
+  list-style-position: inside;
+}
+
+#name {
+  padding: 0 0 5% 0;
+  margin: 0;
+  color: rgb(94, 92, 92);
+  text-align: center;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+}
+
+.experience-header {
+  color: rgb(94, 92, 92);
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  padding: 7% 0 3% 0;
+}
+
+.experience-text {
+  color: rgb(94, 92, 92);
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.education-left {
+  display: inline-block;
+  color: rgb(94, 92, 92);
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-right: solid 2px rgb(94, 92, 92);
+  font-weight: 300;
+  margin: 0;
+  padding: 0 2% 0 0;
+}
+
+pre {
+  margin: 0;
+  padding: 0 2% 0 0;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.education-right {
+  display: inline-block;
+  vertical-align: top;
+  color: rgb(94, 92, 92);
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  padding: 0 0 0 2%;
+}
